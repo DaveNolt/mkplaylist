@@ -1,2 +1,2 @@
-@python D:\MCKunda\Documents\[CUSTOM_UTILS]\mkplaylist.py %*
+@python /path/to/mkplaylist.py %*
 
